@@ -1,0 +1,6 @@
+We need personal gemini_api_key from google ai studio 
+We need to install !pip install -q google-genai
+We need to install !pip install -q edge-tts
+We need to install !pip install -q moviepy
+To make a trailer We need to create images  with the help of any ai app/google-ai-studio/chatgpt
+After downloadiig images upload the images in the file 

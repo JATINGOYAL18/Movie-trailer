@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Temporary Files
+temp/
+cache/
+
+# Python distribution files
+build/
+dist/
+*.egg-info/
+
+# Google Colab
+content/
+
+# Large generated outputs (optional)
+outputs/*.mp4
+outputs/*.avi
+outputs/*.mov
